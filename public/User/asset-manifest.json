@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.98cf47cb.chunk.css",
-    "main.js": "/static/js/main.72df58f5.chunk.js",
-    "main.js.map": "/static/js/main.72df58f5.chunk.js.map",
+    "main.css": "/static/css/main.addd2f9f.chunk.css",
+    "main.js": "/static/js/main.99b8f349.chunk.js",
+    "main.js.map": "/static/js/main.99b8f349.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.06d27226.js",
     "runtime-main.js.map": "/static/js/runtime-main.06d27226.js.map",
     "static/css/2.7cef8b32.chunk.css": "/static/css/2.7cef8b32.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.54cffcc0.chunk.js.map": "/static/js/3.54cffcc0.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.7cef8b32.chunk.css.map": "/static/css/2.7cef8b32.chunk.css.map",
-    "static/css/main.98cf47cb.chunk.css.map": "/static/css/main.98cf47cb.chunk.css.map",
+    "static/css/main.addd2f9f.chunk.css.map": "/static/css/main.addd2f9f.chunk.css.map",
     "static/js/2.51b8b912.chunk.js.LICENSE.txt": "/static/js/2.51b8b912.chunk.js.LICENSE.txt",
     "static/media/Axis_Bank-Logo.wine.798d59fa.svg": "/static/media/Axis_Bank-Logo.wine.798d59fa.svg",
     "static/media/Paytm-Logo.66395c0d.svg": "/static/media/Paytm-Logo.66395c0d.svg",
@@ -45,7 +45,7 @@
     "static/js/runtime-main.06d27226.js",
     "static/css/2.7cef8b32.chunk.css",
     "static/js/2.51b8b912.chunk.js",
-    "static/css/main.98cf47cb.chunk.css",
-    "static/js/main.72df58f5.chunk.js"
+    "static/css/main.addd2f9f.chunk.css",
+    "static/js/main.99b8f349.chunk.js"
   ]
 }
