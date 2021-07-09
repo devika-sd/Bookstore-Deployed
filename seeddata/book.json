@@ -1,0 +1,641 @@
+[{
+  "_id": {
+    "$oid": "60deb12c2db4ad8014549488"
+  },
+  "discount": 30,
+  "available": 4,
+  "title": "animal farm",
+  "category": "horror",
+  "isbn": 913298937458,
+  "authors": "george orwell",
+  "price": 1112,
+  "publishDate": {
+    "$date": "2021-06-30T00:00:00Z"
+  },
+  "image": "http://3.bp.blogspot.com/-pX9Ea-jXWO0/TtqWxS6FwkI/AAAAAAAAAis/cjEctn7wkIQ/s1600/Animalfarm1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60deb1522db4ad8014549489"
+  },
+  "discount": 30,
+  "available": 6,
+  "title": "the open boat",
+  "category": "classic",
+  "isbn": 8131323775806,
+  "authors": "stephen crane",
+  "price": 852,
+  "publishDate": {
+    "$date": "2021-06-30T00:00:00Z"
+  },
+  "image": "https://s3-us-west-2.amazonaws.com/tabs.web.media/c/g/cgkc/cgkc-square-orig.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60deb1742db4ad801454948a"
+  },
+  "discount": 29,
+  "available": 8,
+  "title": "baburnama",
+  "category": "classic",
+  "isbn": 5646595016742,
+  "authors": "babur",
+  "price": 290,
+  "publishDate": {
+    "$date": "2021-06-30T00:00:00Z"
+  },
+  "image": "http://ecx.images-amazon.com/images/I/51Z8FNM4YFL._SX258_BO1,204,203,200_.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60deb19c2db4ad801454948b"
+  },
+  "discount": 9,
+  "available": 8,
+  "title": "arthashastra",
+  "category": "ancient",
+  "isbn": 6207865235632,
+  "authors": "kautilya",
+  "price": 1000,
+  "publishDate": {
+    "$date": "2021-05-05T00:00:00Z"
+  },
+  "image": "http://prodimage.images-bn.com/pimages/9781530830657_p0_v1_s1200x630.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60deb1bf2db4ad801454948c"
+  },
+  "discount": 3,
+  "available": 10,
+  "title": "the decline and fall of the roman empire",
+  "category": "comedy",
+  "isbn": 3660713337177,
+  "authors": "kautilya",
+  "price": 1010,
+  "publishDate": {
+    "$date": "2021-04-14T00:00:00Z"
+  },
+  "image": "https://www.awesomestories.com/images/user/5a6eb45425.JPG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60deb1e82db4ad801454948d"
+  },
+  "discount": 30,
+  "available": 20,
+  "title": "one day in the life of ivan denisovich",
+  "category": "fiction",
+  "isbn": 8598508307494,
+  "authors": "alexander solzhenitsyn",
+  "price": 1654,
+  "publishDate": {
+    "$date": "2021-02-24T00:00:00Z"
+  },
+  "image": "https://i.pinimg.com/originals/a7/10/f1/a710f1dff25338453b10a9326d6c6d42.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60deb20d2db4ad801454948e"
+  },
+  "discount": 1,
+  "available": 3,
+  "title": "a tale of two cities",
+  "category": "fiction",
+  "isbn": 1779831328087,
+  "authors": "charles dickens",
+  "price": 51,
+  "publishDate": {
+    "$date": "2021-02-27T00:00:00Z"
+  },
+  "image": "https://litexplore.files.wordpress.com/2014/05/a-tale-of-two-cities.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60deb2362db4ad8014549490"
+  },
+  "discount": 29,
+  "available": 3,
+  "title": "david copperfield",
+  "category": "fiction",
+  "isbn": 7617514069118,
+  "authors": "charles dickens",
+  "price": 1313,
+  "publishDate": {
+    "$date": "2021-02-27T00:00:00Z"
+  },
+  "image": "https://images-eu.ssl-images-amazon.com/images/I/51Sy3Or2B7L.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60deb2632db4ad8014549491"
+  },
+  "discount": 27,
+  "available": 10,
+  "title": "my experiments with truth",
+  "category": "spritual",
+  "isbn": 5988504911631,
+  "authors": "mahatma gandhi",
+  "price": 950,
+  "publishDate": {
+    "$date": "2021-02-01T18:30:00Z"
+  },
+  "image": "http://img6a.flixcart.com/image/book/9/4/6/my-experiments-with-truth-an-autobiography-original-imadzscgbvhwwhsr.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60deb2dc2db4ad8014549494"
+  },
+  "discount": 50,
+  "available": 8,
+  "title": "twilight",
+  "category": "horror",
+  "isbn": 1978977371997,
+  "authors": "stephenie meyer",
+  "price": 1000,
+  "publishDate": {
+    "$date": "2021-06-17T00:00:00Z"
+  },
+  "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6b2fe501-887c-40a7-8218-10a16602fc81/d21him8-48d1abe4-8a3c-4386-8f7e-cee941329591.jpg/v1/fill/w_800,h_1132,q_75,strp/twilight_cover_wip_by_lovechin88.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi82YjJmZTUwMS04ODdjLTQwYTctODIxOC0xMGExNjYwMmZjODEvZDIxaGltOC00OGQxYWJlNC04YTNjLTQzODYtOGY3ZS1jZWU5NDEzMjk1OTEuanBnIiwid2lkdGgiOiI8PTgwMCIsImhlaWdodCI6Ijw9MTEzMiJ9XV19.qfNog1NYi8QNosg16Xr8EqkmXGZJWbalnIa7kPmr_48",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60deb31e2db4ad8014549496"
+  },
+  "discount": 10,
+  "available": 8,
+  "title": "the higgler",
+  "category": "comedy",
+  "isbn": 643013343841,
+  "authors": "jeffrey archer",
+  "price": 1500,
+  "publishDate": {
+    "$date": "2021-05-12T00:00:00Z"
+  },
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347246283i/1199238._UY630_SR1200,630_.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60deb3412db4ad8014549497"
+  },
+  "discount": 10,
+  "available": 10,
+  "title": "a passage to india",
+  "category": "horror",
+  "isbn": 5379930535069,
+  "authors": "raph cormack",
+  "price": 257,
+  "publishDate": {
+    "$date": "2021-05-12T00:00:00Z"
+  },
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Video/v4/60/2a/ea/602aea7d-e19f-5191-6b6d-743805a7363d/source/900x900bb.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60deb35f2db4ad8014549498"
+  },
+  "discount": 10,
+  "available": 10,
+  "title": "adventures of tom sawyer",
+  "category": "adeventure",
+  "isbn": 6418561870344,
+  "authors": "mark twain",
+  "price": 586,
+  "publishDate": {
+    "$date": "2021-05-12T00:00:00Z"
+  },
+  "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781481403771/the-adventures-of-tom-sawyer-9781481403771_hr.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60decb14b0a3745420c7c580"
+  },
+  "discount": 10,
+  "available": 8,
+  "title": "the grass is always greener",
+  "category": "horror",
+  "isbn": 5129604101059,
+  "authors": "jeffrey archer",
+  "price": 1500,
+  "publishDate": {
+    "$date": "2021-06-16T00:00:00Z"
+  },
+  "image": "https://is2-ssl.mzstatic.com/image/thumb/Publication118/v4/7a/41/78/7a417838-0d66-08a5-5ea4-cdbe6c39d91c/source/1200x630bb.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02969b0a3745420c7c581"
+  },
+  "discount": 10,
+  "available": 29,
+  "title": "grant",
+  "category": "ancient",
+  "isbn": 3456825367,
+  "authors": "alexander hamilton",
+  "price": 600,
+  "publishDate": {
+    "$date": "2001-06-12T00:00:00Z"
+  },
+  "image": "https://pictures.abebooks.com/isbn/9780143110637-us.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02a02b0a3745420c7c582"
+  },
+  "discount": 0,
+  "available": 9,
+  "title": "history of anicent india",
+  "category": "ancient",
+  "isbn": 8965436788,
+  "authors": "sarita mehta",
+  "price": 400,
+  "publishDate": {
+    "$date": "2001-06-30T00:00:00Z"
+  },
+  "image": "https://images-na.ssl-images-amazon.com/images/I/916kc2876fL.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02a70b0a3745420c7c583"
+  },
+  "discount": 50,
+  "available": 43,
+  "title": "the vietnam war",
+  "category": "ancient",
+  "isbn": 8965434655,
+  "authors": "ken burns",
+  "price": 6900,
+  "publishDate": {
+    "$date": "2004-08-27T00:00:00Z"
+  },
+  "image": "https://images.penguinrandomhouse.com/cover/9781984897749",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02abeb0a3745420c7c584"
+  },
+  "discount": 5,
+  "available": 20,
+  "title": "an orphans war",
+  "category": "fiction",
+  "isbn": 9965434655,
+  "authors": "molly green",
+  "price": 900,
+  "publishDate": {
+    "$date": "2021-07-03T00:00:00Z"
+  },
+  "image": "https://images-na.ssl-images-amazon.com/images/I/91cBUuzg51L.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02b0bb0a3745420c7c585"
+  },
+  "discount": 50,
+  "available": 20,
+  "title": "the war between us",
+  "category": "fiction",
+  "isbn": 1065434655,
+  "authors": "sarah lee",
+  "price": 2450,
+  "publishDate": {
+    "$date": "2017-11-14T18:30:00Z"
+  },
+  "image": "https://m.media-amazon.com/images/I/51kjvCihacL.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02b7ab0a3745420c7c586"
+  },
+  "discount": 30,
+  "available": 10,
+  "title": "the book theif",
+  "category": "thriller",
+  "isbn": 345736587365,
+  "authors": "markus zukas",
+  "price": 1000,
+  "publishDate": {
+    "$date": "2016-02-02T00:00:00Z"
+  },
+  "image": "http://mindjoggle.com/wp-content/uploads/2020/07/the-book-thief.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02bc6b0a3745420c7c58a"
+  },
+  "discount": 30,
+  "available": 10,
+  "title": "the fall of gaints",
+  "category": "classic",
+  "isbn": 3434347344,
+  "authors": "ken follet",
+  "price": 1000,
+  "publishDate": {
+    "$date": "2019-11-09T00:00:00Z"
+  },
+  "image": "https://mindjoggle.com/wp-content/uploads/2019/12/fall-of-giants.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02c1fb0a3745420c7c58b"
+  },
+  "discount": 50,
+  "available": 100,
+  "title": "broken stars",
+  "category": "sciencefiction",
+  "isbn": 2324583765986,
+  "authors": "kenlui",
+  "price": 490,
+  "publishDate": {
+    "$date": "2011-06-07T00:00:00Z"
+  },
+  "image": "https://images-na.ssl-images-amazon.com/images/I/914YPMdPrzL.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02c6cb0a3745420c7c58d"
+  },
+  "discount": 10,
+  "available": 100,
+  "title": "the doors of eden",
+  "category": "sciencefiction",
+  "isbn": 4546765986,
+  "authors": "adrain",
+  "price": 500,
+  "publishDate": {
+    "$date": "2017-10-17T00:00:00Z"
+  },
+  "image": "https://ik.imagekit.io/panmac/tr:q-75,di-placeholder_portrait_aMjPtD9YZ.jpg,w-224,pr-true,bl/edition/9781509865888.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02cb7b0a3745420c7c58f"
+  },
+  "discount": 10,
+  "available": 16,
+  "title": "guest list",
+  "category": "thriller",
+  "isbn": 4534654567,
+  "authors": "lucy fuly",
+  "price": 546,
+  "publishDate": {
+    "$date": "2017-10-17T00:00:00Z"
+  },
+  "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1591970591-51HNh-eI7CL.jpg?crop=1xw:0.987xh;center,top&resize=480:*",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02cf4b0a3745420c7c590"
+  },
+  "discount": 10,
+  "available": 5,
+  "title": "back to life",
+  "category": "thriller",
+  "isbn": 45344245356,
+  "authors": "john carson",
+  "price": 600,
+  "publishDate": {
+    "$date": "2016-03-02T00:00:00Z"
+  },
+  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569401710l/49432021._SX318_SY475_.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02d6db0a3745420c7c591"
+  },
+  "discount": 34,
+  "available": 5,
+  "title": "night terror",
+  "category": "horror",
+  "isbn": 67874245356,
+  "authors": "d fischer",
+  "price": 1000,
+  "publishDate": {
+    "$date": "2014-07-09T00:00:00Z"
+  },
+  "image": "https://m.media-amazon.com/images/I/51IzeRM6KkL.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02db0b0a3745420c7c592"
+  },
+  "discount": 50,
+  "available": 5,
+  "title": "revenge of ghost",
+  "category": "horror",
+  "isbn": 3526845356,
+  "authors": "sunil kapdia",
+  "price": 2000,
+  "publishDate": {
+    "$date": "2018-07-12T00:00:00Z"
+  },
+  "image": "https://mbassets.b-cdn.net/cdni/book-cover/1592205709_085434300.jpg?w=250&q=50",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02dffb0a3745420c7c593"
+  },
+  "discount": 50,
+  "available": 5,
+  "title": "hell house",
+  "category": "horror",
+  "isbn": 3666845356,
+  "authors": "richard mateson",
+  "price": 1200,
+  "publishDate": {
+    "$date": "2010-03-04T00:00:00Z"
+  },
+  "image": "http://prodimage.images-bn.com/pimages/9780312868857.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02e95b0a3745420c7c594"
+  },
+  "discount": 30,
+  "available": 10,
+  "title": "dragon throne",
+  "category": "adeventure",
+  "isbn": 8765476532,
+  "authors": "amma lee",
+  "price": 2389,
+  "publishDate": {
+    "$date": "2012-11-21T00:00:00Z"
+  },
+  "image": "https://m.media-amazon.com/images/I/51bG-Ivww6L.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02f04b0a3745420c7c595"
+  },
+  "discount": 50,
+  "available": 34,
+  "title": "the hobbit",
+  "category": "adeventure",
+  "isbn": 4356276532,
+  "authors": "jjr tokkein",
+  "price": 900,
+  "publishDate": {
+    "$date": "2012-11-08T00:00:00Z"
+  },
+  "image": "https://images-cdn.reedsy.com/discovery/image/489/image/medium_c084e90b760a553993c78d149b03393bf807dad2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02f6fb0a3745420c7c596"
+  },
+  "discount": 50,
+  "available": 10,
+  "title": "seal of the king",
+  "category": "thriller",
+  "isbn": 7766655476,
+  "authors": "ralph smith",
+  "price": 1023,
+  "publishDate": {
+    "$date": "2016-02-02T00:00:00Z"
+  },
+  "image": "https://m.media-amazon.com/images/I/51ttnuVKMoL.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e02ff0b0a3745420c7c597"
+  },
+  "discount": 0,
+  "available": 50,
+  "title": "no lands man",
+  "category": "thriller",
+  "isbn": 23453255476,
+  "authors": "asif mandvi",
+  "price": 300,
+  "publishDate": {
+    "$date": "2014-03-13T00:00:00Z"
+  },
+  "image": "https://img.washingtonpost.com/rf/image_742w/2010-2019/WashingtonPost/2014/12/19/Style/Images/comedybooks-0021419015670.jpg?uuid=Z6jFpoexEeSrz1o9ezsguA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e03043b0a3745420c7c598"
+  },
+  "discount": 0,
+  "available": 39,
+  "title": "wild and crazy gangs",
+  "category": "comedy",
+  "isbn": 3234356876864,
+  "authors": "nick stephen",
+  "price": 400,
+  "publishDate": {
+    "$date": "2014-03-27T00:00:00Z"
+  },
+  "image": "https://pyxis.nymag.com/v1/imgs/72a/8c6/23c271021ffe928cf3fdcd0c6e0230d97f-wild-and-crazy-guys.rdeep-vertical.w245.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0309ab0a3745420c7c59a"
+  },
+  "discount": 50,
+  "available": 10,
+  "title": "the art of comedy",
+  "category": "comedy",
+  "isbn": 45656876864,
+  "authors": "paul ryan",
+  "price": 4000,
+  "publishDate": {
+    "$date": "2016-12-23T00:00:00Z"
+  },
+  "image": "https://images-na.ssl-images-amazon.com/images/I/41BD7APOO6L._SX322_BO1,204,203,200_.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e03105b0a3745420c7c59b"
+  },
+  "discount": 0,
+  "available": 12,
+  "title": "finding you funny",
+  "category": "fiction",
+  "isbn": 32457876567,
+  "authors": "donb jr",
+  "price": 300,
+  "publishDate": {
+    "$date": "2021-06-29T00:00:00Z"
+  },
+  "image": "https://images-na.ssl-images-amazon.com/images/I/41yEmlx08kL._SX331_BO1,204,203,200_.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e03176b0a3745420c7c59c"
+  },
+  "discount": 10,
+  "available": 9,
+  "title": "lord of the flies",
+  "category": "classic",
+  "isbn": 3657788954,
+  "authors": "william golding",
+  "price": 509,
+  "publishDate": {
+    "$date": "2007-07-12T00:00:00Z"
+  },
+  "image": "https://d3525k1ryd2155.cloudfront.net/h/608/319/1120319608.0.x.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e031f3b0a3745420c7c59d"
+  },
+  "discount": 45,
+  "available": 45,
+  "title": "frankensten",
+  "category": "classic",
+  "isbn": 4566788265,
+  "authors": "mary shelley",
+  "price": 450,
+  "publishDate": {
+    "$date": "2010-08-13T00:00:00Z"
+  },
+  "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F24%2F2018%2F09%2Fshelley.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e03265b0a3745420c7c59e"
+  },
+  "discount": 30,
+  "available": 30,
+  "title": "self knoweldege",
+  "category": "spritual",
+  "isbn": 456777635426,
+  "authors": "belsubulb",
+  "price": 500,
+  "publishDate": {
+    "$date": "2012-07-12T00:00:00Z"
+  },
+  "image": "data:image/jpeg;base64,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",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e032d6b0a3745420c7c59f"
+  },
+  "discount": 0,
+  "available": 20,
+  "title": "spirtual power",
+  "category": "spritual",
+  "isbn": 4657383765,
+  "authors": "gian kumar",
+  "price": 385,
+  "publishDate": {
+    "$date": "2019-01-29T00:00:00Z"
+  },
+  "image": "https://images.penguinrandomhouse.com/cover/9789386832757",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e03325b0a3745420c7c5a0"
+  },
+  "discount": 10,
+  "available": 30,
+  "title": "sita",
+  "category": "spritual",
+  "isbn": 98762356853,
+  "authors": "amish",
+  "price": 500,
+  "publishDate": {
+    "$date": "2018-07-12T00:00:00Z"
+  },
+  "image": "https://5.imimg.com/data5/TU/AD/AK/SELLER-41828906/sita-warrior-of-mithila-500x500.jpg",
+  "__v": 0
+}]

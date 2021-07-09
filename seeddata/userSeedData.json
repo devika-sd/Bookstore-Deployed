@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "60d98dde0b154509a447f28b"
+  },
+  "isAdmin": true,
+  "isBlocked": false,
+  "name": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$qr.MW3dODvGiGUrlDEqzk..mDgLDxymvGTH6KnCvmLNlzBpQKTFqe",
+  "phone": 9999999999,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d98dde0b154509a447f28c"
+      },
+      "houseNumber": 123,
+      "locality": "Salem east",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "pinCode": 413005
+    }
+  ],
+  "__v": 0
+}]

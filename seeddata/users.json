@@ -1,0 +1,637 @@
+[{
+  "_id": {
+    "$oid": "60c873bd5c2daf23b8b4a4e1"
+  },
+  "isAdmin": true,
+  "isBlocked": false,
+  "name": "vrushali bollu",
+  "email": "Vrushali@gmail.com",
+  "password": "$2b$10$9g5khYNaCUQGYdaLP.t0..y8jhB.rfFVvK2CmRFO52WetettppuW2",
+  "phone": "9966552233",
+  "photo": "",
+  "__v": 1,
+  "addresses": []
+},{
+  "_id": {
+    "$oid": "60c996498b055f1ff4e54706"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "padmaja bollu",
+  "email": "Padmaja@gmail.com",
+  "password": "Padmaja@06",
+  "phone": "9284219956",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c998608b055f1ff4e54707"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "sankarshan bollu",
+  "email": "Sankarshan@gmail.com",
+  "password": "$2b$10$f2DwmehcmvfakES8g0G9H.QdnsdX3fEAPR.Qd7u1X2QoGmPYcdbjm",
+  "phone": "2222222222",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c999278b055f1ff4e54708"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "geeta bollu",
+  "email": "Geeta@gmail.com",
+  "password": "$2b$10$SyBcIGiYYQmnLkP88afMOeclmxEXqA30riYt4o6/aVKbzSck7HETW",
+  "phone": "2222222221",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc6c0ba2921b2bd81ddd08"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "user8",
+  "email": "user8@gmail.com",
+  "password": "$2b$10$k.wG21v.kfhR.1dEzZtUju6eUhHoiarHnImwCd7lMhExSohpLEscq",
+  "phone": "9555777660",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc721c124768471805e2e1"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "user10",
+  "email": "user10@gmail.com",
+  "password": "$2b$10$t4BsspVLZwCXu1L9WDHBOukt4oYxeR1X.nD/MlyaNeIMZUNExVYfy",
+  "phone": "9867555507",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc7264124768471805e2e3"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "user11",
+  "email": "user11@gmail.com",
+  "password": "$2b$10$tnxwCm3bt0ugQUdi.i/7jexJP8etcnSdXkAJE9N5UuJtcoWYS2l9C",
+  "phone": "9867555597",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc7346124768471805e2e4"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "user12",
+  "email": "user12@gmail.com",
+  "password": "$2b$10$SesR3L2OWn/qygcCzfrqwuYLlFuW6gdVknPnKRsKd3JW7hhrqiRzu",
+  "phone": "9867555512",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc7460124768471805e2e5"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "user13",
+  "email": "user13@gmail.com",
+  "password": "$2b$10$ozafV4.5AEyqAawyudWi0.TqVr4lnpaynn1qmdh3gt3yacAusfd/2",
+  "phone": "9867555513",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc74ae124768471805e2e6"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "user14",
+  "email": "user14@gmail.com",
+  "password": "$2b$10$ttS.x5DXzB.B8C3IHYcsbeU4TYCjwjW8YzKcULmYGB.9Y13vMIdz.",
+  "phone": "9867555514",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc74f8124768471805e2e7"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "user15",
+  "email": "user15@gmail.com",
+  "password": "$2b$10$bopIkTmyEjIoLmKVxyP2fO/eOA67a4MEGhPREGS/azeA9zZOAOtWq",
+  "phone": "9867555515",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc7522124768471805e2e8"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "user16",
+  "email": "user16@gmail.com",
+  "password": "$2b$10$Hs4q0UPMi4N6S8ynzPTIE.dEnykiZk6Aab5rog2ZYNPlxwQhyUZCy",
+  "phone": "9867555516",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc7556124768471805e2e9"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "user17",
+  "email": "user17@gmail.com",
+  "password": "$2b$10$NSxn5RytCJUTft6FXO0Z4uUjpLOugPB0ZCnR.lamA5mq4Vnmf8yLi",
+  "phone": "9867555517",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc76aa124768471805e2ea"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "user18",
+  "email": "user18@gmail.com",
+  "password": "$2b$10$NhaAJt6Ny.qDQrCS1VP6Z.ivqibquL6P73ebjFCga98U0Po6QjCOS",
+  "phone": "9867555518",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc76cb124768471805e2eb"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "user19",
+  "email": "user19@gmail.com",
+  "password": "$2b$10$37TLXDrCNev/4xar4XPVE.ineI0Y13lh7RoCJuJ.P2bEAScq7czO6",
+  "phone": "9867555519",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc772d124768471805e2ec"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "user20",
+  "email": "user20@gmail.com",
+  "password": "$2b$10$wMjKzrWdD5PoqUqCIkEAsuUNWpb43j33I9OnGKcBatdB4MyaTOOuq",
+  "phone": "9867555520",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc774d124768471805e2ed"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "user21",
+  "email": "user21@gmail.com",
+  "password": "$2b$10$Q96TQYEJv3PFIb7/94PgqeomyGqlkfsjqAHLmNfIlZya2NEOJJRcO",
+  "phone": "9867555521",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60cc77bb124768471805e2ef"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "user22",
+  "email": "user22@gmail.com",
+  "password": "$2b$10$tA.ZJBo61XsEdgCtRMU3buiapBbtaM625lTts9xe/yw76UgHKbDMG",
+  "phone": "9867555522",
+  "photo": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d1aadd4f5c991ab0b2b6d4"
+  },
+  "isAdmin": true,
+  "isBlocked": false,
+  "name": "desika",
+  "email": "desika@gmail.com",
+  "password": "$2b$10$qN01QPhQ0fJNvMCcMCjWpePGMUt8d4a7cWowM/JK3rZqR42LWGFR2",
+  "phone": 8745698756,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d1aadd4f5c991ab0b2b6d5"
+      },
+      "houseNumber": 123,
+      "locality": "Salem east",
+      "city": "Salem",
+      "state": "Tamilnadu",
+      "country": "India",
+      "pinCode": 413005
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2cd2bd670ed2a90a5ee70"
+  },
+  "isAdmin": true,
+  "isBlocked": false,
+  "name": "abirami",
+  "email": "abirami@gmail.com",
+  "password": "$2b$10$Q8YddyCO.QCbMJwjOt1BjeTyDcbPXWWrqL6mQSl6q1yuhLJ/ruXp.",
+  "phone": 9878945698,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2cd2bd670ed2a90a5ee71"
+      },
+      "houseNumber": 25,
+      "city": "Dindigul",
+      "locality": "shopping mall",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "pinCode": 625402
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2d317d670ed2a90a5ee78"
+  },
+  "isAdmin": true,
+  "isBlocked": false,
+  "name": "virat",
+  "email": "virat@gmail.com",
+  "password": "$2b$10$CtNRaLQ8k5jKjnEGr83jj.q3ymsxpnnO/tGYEp5nmvtIXQOCx5DcW",
+  "phone": 8888888888,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2d317d670ed2a90a5ee79"
+      },
+      "houseNumber": 12,
+      "city": "madurai",
+      "locality": "vilangudi",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "pinCode": 625402
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2d32ed670ed2a90a5ee7a"
+  },
+  "isAdmin": true,
+  "isBlocked": false,
+  "name": "sivabharathi",
+  "email": "sivabharathi@gmail.com",
+  "password": "$2b$10$LOakyQtXk1rAuDpWGYjdSOXRU3eLD.xkfm95/KulUKg9Pzg9xgUS.",
+  "phone": 8745698745,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2d32ed670ed2a90a5ee7b"
+      },
+      "houseNumber": 123,
+      "locality": "Salem east",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "pinCode": 413005
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2d3f6f188ed2a4c8b7336"
+  },
+  "isAdmin": true,
+  "isBlocked": false,
+  "name": "virat",
+  "email": "ragav@gmail.com",
+  "password": "$2b$10$aDrAt.5Q/Tm2ayWWcjSa5OUV9OLuAlMDM4vYtX9RYzXG8ELQ/0Tuq",
+  "phone": 8888888877,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2d3f6f188ed2a4c8b7337"
+      },
+      "houseNumber": 12,
+      "city": "madurai",
+      "locality": "vilangudi",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "pinCode": 625402
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2d439f188ed2a4c8b733c"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "ragav",
+  "email": "gandhi@gmail.com",
+  "password": "$2b$10$tZF2zigYsZAM6G4kEKWpu.dQa4cGanwUjihtNi.XlRocrPfrCupyK",
+  "phone": 8888888855,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2d439f188ed2a4c8b733d"
+      },
+      "houseNumber": 12,
+      "city": "madurai",
+      "locality": "vilangudi",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "pinCode": 625402
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2d498f188ed2a4c8b7340"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "ragav",
+  "email": "ragiv@gmail.com",
+  "password": "$2b$10$tMgjDfVrnmlT32aPoLIGbucJLCje/3x5yv4u5BrlQnFOfkHX1Agay",
+  "phone": 8888888456,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2d498f188ed2a4c8b7341"
+      },
+      "houseNumber": 12,
+      "city": "madurai",
+      "locality": "vilangudi",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "pinCode": 625402
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2d5155b9255011c5ee8a4"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "ragav",
+  "email": "ragu@gmail.com",
+  "password": "$2b$10$TgVce0TEDXE5zGD3wF.99urli.TdBi.6jUU0aQwqRyI4T6j8CIwzm",
+  "phone": 8888885789,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2d5155b9255011c5ee8a5"
+      },
+      "houseNumber": 12,
+      "city": "madurai",
+      "locality": "vilangudi",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "pinCode": 625402
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2d5ee5b9255011c5ee8a6"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "nmodi",
+  "email": "modi@gmail.com",
+  "password": "$2b$10$mUIX8eXICFL4ee40b2o21e75BIUPWdQSQgFwjYvoCXJ95yl09Rhv6",
+  "phone": 8754987624,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2d5ee5b9255011c5ee8a7"
+      },
+      "houseNumber": 12,
+      "city": "madurai",
+      "locality": "vilangudi",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "pinCode": 625402
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2d8a25b9255011c5ee8a8"
+  },
+  "isAdmin": false,
+  "isBlocked": false,
+  "name": "dhanush",
+  "email": "dhanush@gmail.com",
+  "password": "$2b$10$zzjbMXhgD9icUh8Ve33T0OJn/aa9s2LslaSpTazgjqXkXsuKnSjRm",
+  "phone": 1234567895,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2d8a25b9255011c5ee8a9"
+      },
+      "houseNumber": 45,
+      "city": "Madurai",
+      "locality": "vilangudi",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "pinCode": 625402
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2d90a5b9255011c5ee8aa"
+  },
+  "isAdmin": true,
+  "isBlocked": false,
+  "name": "simbu",
+  "email": "simbu@gmail.com",
+  "password": "$2b$10$q4LKnrzJTSs.fu7K3wXCQehb0ILvuqEm4HtGXuuQcWT7yDB2fHPWq",
+  "phone": 8546987415,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2d90a5b9255011c5ee8ab"
+      },
+      "houseNumber": 45,
+      "city": "Madurai",
+      "locality": "vilangudi",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "pinCode": 625402
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2d9a15b9255011c5ee8ac"
+  },
+  "isAdmin": true,
+  "isBlocked": false,
+  "name": "balram",
+  "email": "balram@gmail.com",
+  "password": "$2b$10$j9nAbCSDlW8Vhqs3Op7OMuRwSVQxg5uKIj6XTY8Q/PdV6ePcG70ky",
+  "phone": 8759846852,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2d9a15b9255011c5ee8ad"
+      },
+      "houseNumber": 12,
+      "city": "chennai",
+      "locality": "vilangudi",
+      "country": "India",
+      "state": "Jharkhand",
+      "pinCode": 625402
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2da445b9255011c5ee8b0"
+  },
+  "isAdmin": true,
+  "isBlocked": false,
+  "name": "druvan",
+  "email": "druvan@gmail.com",
+  "password": "$2b$10$aPnb6sKaKSQn8dBoc3dw7uCZVCrZuglLkQR7Lz1lubbuLGfq6qiUC",
+  "phone": 9875426845,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2da445b9255011c5ee8b1"
+      },
+      "houseNumber": 56,
+      "city": "Madurai",
+      "locality": "vilangudi",
+      "country": "India",
+      "state": "Maharashtra",
+      "pinCode": 652402
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2da5f5b9255011c5ee8b6"
+  },
+  "isAdmin": true,
+  "isBlocked": false,
+  "name": "druvan",
+  "email": "krish@gmail.com",
+  "password": "$2b$10$.0lgx0qa6JpufbkesMsxzOKoeFF8.pTMstlq2AD7kweuuWaOGi3rW",
+  "phone": 4567981235,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2da5f5b9255011c5ee8b7"
+      },
+      "houseNumber": 56,
+      "city": "Madurai",
+      "locality": "vilangudi",
+      "country": "India",
+      "state": "Maharashtra",
+      "pinCode": 652402
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2db455b9255011c5ee8be"
+  },
+  "isAdmin": true,
+  "isBlocked": false,
+  "name": "druvan",
+  "email": "kannam@gmail.com",
+  "password": "$2b$10$vTbQeI6NA1ayQNRCnDOXB.7pg2cZl8ZWhCZ83nSZrdamoHb0.hBdO",
+  "phone": 4567981236,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2db455b9255011c5ee8bf"
+      },
+      "houseNumber": 56,
+      "city": "Madurai",
+      "locality": "vilangudi",
+      "country": "India",
+      "state": "Maharashtra",
+      "pinCode": 652402
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2dbce5b9255011c5ee8ca"
+  },
+  "isAdmin": true,
+  "isBlocked": false,
+  "name": "druvan",
+  "email": "rathai@gmail.com",
+  "password": "$2b$10$THjbfiPteFkYNhE1zwXOrulmHFjGFVoAcJI6g4Xb95RkDeUBPK41W",
+  "phone": 4567981255,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2dbce5b9255011c5ee8cb"
+      },
+      "houseNumber": 56,
+      "city": "Madurai",
+      "locality": "vilangudi",
+      "country": "India",
+      "state": "Maharashtra",
+      "pinCode": 652402
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d2eba05b9255011c5ee8ec"
+  },
+  "isAdmin": true,
+  "isBlocked": false,
+  "name": "anbumalai",
+  "email": "anbumalai@gmail.com",
+  "password": "$2b$10$MOjBFlTwu6y.NF1LNv74p.zYmpLBZmRUUTOVVtAx2236Cebpvtk72",
+  "phone": 8745698788,
+  "addresses": [
+    {
+      "_id": {
+        "$oid": "60d2eba05b9255011c5ee8ed"
+      },
+      "houseNumber": 123,
+      "locality": "Salem east",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "pinCode": 413005
+    },
+    {
+      "_id": {
+        "$oid": "60d2eba05b9255011c5ee8ee"
+      },
+      "houseNumber": 123,
+      "locality": "Salem east",
+      "city": "Salem",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "pinCode": 413005
+    }
+  ],
+  "__v": 0
+}]
