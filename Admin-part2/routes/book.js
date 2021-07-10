@@ -13,7 +13,7 @@ router.route('/')
 router.route('/:title')
     .delete(protect, authorize('admin'), deleteBooksByTitle)
 
-router.route('/:title')
+router.route('/:_id')
     .put(protect, authorize('admin'), updateBookDetails);
 
 router.route('/:title')

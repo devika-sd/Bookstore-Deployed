@@ -36,7 +36,7 @@ const fetchBooksByTitle = asyncHandler(async (req, res, next) => {
 })
 
 const updateBookDetails = asyncHandler(async (req, res, next) => {
-    const books = await Book.findOne({title:req.params.title});
+    const books = await Book.findOne({_id:req.params._id});
    
         books.title= req.body.title;
         books.category= req.body.category;
